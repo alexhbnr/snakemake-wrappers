@@ -13,5 +13,6 @@ shell(
     "    -a {snakemake.input[0]} "
     "    -h {hapmapfn} "
     "    -p {snakemake.threads} "
-    "    |&tee {snakemake.output[0]})"
+    "    |&tee {snakemake.output[0]} "
+    "    || touch {snakemake.output[0]})"
 )
