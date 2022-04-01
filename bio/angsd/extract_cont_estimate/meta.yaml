@@ -1,0 +1,4 @@
+name: "angsd extract_cont_estimate"
+description: Extract the contamination estimates using slightly different algorithms from log file.
+authors:
+  - Alexander Hübner
