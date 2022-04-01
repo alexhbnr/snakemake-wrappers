@@ -1,0 +1,4 @@
+name: "angsd contamination"
+description: Perform an contamination estimate based on the observed heterogeneity on the X chromosome of males.
+authors:
+  - Alexander Hübner
