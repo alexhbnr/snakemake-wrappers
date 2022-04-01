@@ -1,0 +1,5 @@
+name: "mmeyer scripts - conditionalSubstitution"
+description: Calculates the contamination estimate based the frequency of conditional substitutions.
+authors:
+  - Alexander Hübner
+  - Matthias Meyer
