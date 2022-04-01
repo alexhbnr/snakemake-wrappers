@@ -1,0 +1,4 @@
+name: "angsd doCounts"
+description: Perform an allele count using ANGSD along the genome using BAM file.
+authors:
+  - Alexander Hübner
