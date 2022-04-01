@@ -1,0 +1,4 @@
+name: "DamageProfiler"
+description: Profile the amount of ancient DNA damage using damageprofiler.
+authors:
+  - Alexander Hübner
