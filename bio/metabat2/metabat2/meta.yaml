@@ -1,0 +1,4 @@
+name: "metaBAT2"
+description: Bin the de-novo assembled contigs using metaBAT2.
+authors:
+  - Alexander Hübner
