@@ -16,6 +16,5 @@ shell(
     " -out {outprefix}"
     " -markerset {markerset}"
     " -min_contig_length {minlength}"
-    " -thread {snakemake.threads}"
-    " -verbose)"
+    " -thread {snakemake.threads})"
 )
