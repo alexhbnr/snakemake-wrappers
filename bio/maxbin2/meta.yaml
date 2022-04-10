@@ -1,0 +1,4 @@
+name: "MaxBin2"
+description: Bin the de-novo assembled contigs using MaxBin2.
+authors:
+  - Alexander Hübner
