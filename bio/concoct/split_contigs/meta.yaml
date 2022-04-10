@@ -1,0 +1,4 @@
+name: "CONCOCT - split contigs"
+description: Split contigs into at most 10 kb fragments for CONCOCT.
+authors:
+  - Alexander Hübner

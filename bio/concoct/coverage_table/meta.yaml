@@ -1,0 +1,4 @@
+name: "CONCOCT - coverage table"
+description: Determine the coverage along the contigs for CONCOCT.
+authors:
+  - Alexander Hübner

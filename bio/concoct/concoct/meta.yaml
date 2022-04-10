@@ -1,0 +1,4 @@
+name: "CONCOCT - concoct"
+description: Bin the de-novo assembled contigs using CONCOCT.
+authors:
+  - Alexander Hübner

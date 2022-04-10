@@ -1,4 +1,4 @@
 name: "metaBAT2 depth"
-description: Determine the depth along the contigs for metaBAT2.
+description: Determine the average depth per contigs for metaBAT2.
 authors:
   - Alexander Hübner

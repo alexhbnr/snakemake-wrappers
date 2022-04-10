@@ -1,0 +1,4 @@
+name: "CONCOCT - merge contigs"
+description: Merge split contigs that were previously split for CONCOCT.
+authors:
+  - Alexander Hübner
