@@ -1,0 +1,4 @@
+name: "CONCOCT - extract_bins"
+description: Split contigs into individual FastA files for the individual clusters inferred by CONCOCT.
+authors:
+  - Alexander Hübner
