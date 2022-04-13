@@ -16,5 +16,8 @@ shell(
     " -out {outprefix}"
     " -markerset {markerset}"
     " -min_contig_length {minlength}"
-    " -thread {snakemake.threads})"
+    " -thread {snakemake.threads} || "
+    " if [[ $? -eq 255 ]]; then"
+    "     touch {snakemake.output[0]}; "
+    " fi)"
 )
