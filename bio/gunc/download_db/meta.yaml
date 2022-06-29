@@ -1,0 +1,4 @@
+name: "gunc - download_db"
+description: Download the database of GUNC.
+authors:
+  - Alexander Hübner

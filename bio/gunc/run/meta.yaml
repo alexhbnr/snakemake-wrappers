@@ -1,0 +1,4 @@
+name: "gunc - run"
+description: Run GUNC on the set of MAGs.
+authors:
+  - Alexander Hübner
