@@ -1,0 +1,4 @@
+name: "metawrap bin_refinement"
+description: Refine MAG binning using MetaWRAP's bin refinement module.
+authors:
+  - Alexander Hübner

@@ -1,0 +1,4 @@
+name: "metawrap binning"
+description: Bin de-novo assembled contigs with multiple binners using MetaWRAP.
+authors:
+  - Alexander Hübner
