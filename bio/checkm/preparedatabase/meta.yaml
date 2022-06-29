@@ -1,0 +1,4 @@
+name: "checkM download and unzip database"
+description: Download and untar the database file for checkM.
+authors:
+  - Alexander Hübner

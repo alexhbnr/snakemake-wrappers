@@ -1,0 +1,4 @@
+name: "checkM set path to database"
+description: Sets the path to the database required for checkM.
+authors:
+  - Alexander Hübner
