@@ -11,6 +11,7 @@ outprefix = snakemake.params.get("outprefix", "")
 shell(
     "(concoct "
     " -l {minlength}"
+    " -t {snakemake.threads}"
     " --coverage_file {snakemake.input[1]}"
     " --composition_file {snakemake.input[0]}"
     " -b {outprefix} || "
