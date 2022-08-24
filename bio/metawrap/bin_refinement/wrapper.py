@@ -19,5 +19,5 @@ shell(
     " -x {max_contamination}"
     " -A {snakemake.params.maxbin2}"
     " -B {snakemake.params.metabat2}"
-    " -C {snakemake.params.concoct}) || touch {snakemake.output[0]}"
+    " -C {snakemake.params.concoct}) && touch {snakemake.output[0]}"
 )
