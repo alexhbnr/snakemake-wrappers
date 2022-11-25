@@ -1,0 +1,4 @@
+name: "gtdbtk - download_db"
+description: Download and set up the marker database for GTDBTK.
+authors:
+  - Alexander Hübner
