@@ -1,0 +1,4 @@
+name: "phylophlan - metagenomic"
+description: Assign MAGs to the closest known reference genomes using MASH distances.
+authors:
+  - Alexander Hübner
