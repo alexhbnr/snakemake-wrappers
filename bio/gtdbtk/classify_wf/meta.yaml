@@ -1,0 +1,4 @@
+name: "gtdbtk - classify_wf"
+description: Run GTDBTK's classify workflow to assign bins to taxa.
+authors:
+  - Alexander Hübner
