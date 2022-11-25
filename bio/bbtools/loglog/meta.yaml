@@ -1,0 +1,4 @@
+name: "loglog"
+description: Determine the amount of memory necessary to store the k-mer table for bbnorm.
+authors:
+  - Alexander Hübner
