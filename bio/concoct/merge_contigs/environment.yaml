@@ -3,5 +3,5 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - sklearn=1.1
+  - scikit-learn<=1.1,>=0.14.1
   - concoct>=1.1.0
