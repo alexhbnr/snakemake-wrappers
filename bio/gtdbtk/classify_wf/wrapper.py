@@ -12,7 +12,8 @@ dbdir = snakemake.params.get("dbdir", "")
 
 shell(
     "(GTDBTK_DATA_PATH={dbdir} "
-    " gtdbtk classify_wf --cpu {snakemake.threads} "
+    "gtdbtk classify_wf --cpu {snakemake.threads} "
+    "--mash_db {dbdir}/mash_db "
     "--extension fa --genome_dir {fadir} --out_dir {outdir})"
 )
 
