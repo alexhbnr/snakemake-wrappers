@@ -1,0 +1,4 @@
+name: "MMSeqs2 createdb"
+description: Create a MMSeqs2 database of FastA file(s).
+authors:
+  - Alexander Hübner

@@ -1,0 +1,4 @@
+name: "MMSeqs2 createtsv"
+description: Summarise the MMSeqs2 taxonomy results into a TSV.
+authors:
+  - Alexander Hübner

@@ -1,0 +1,4 @@
+name: "MMSeqs2 download_database"
+description: Download pre-generated references databases for MMSeqs2.
+authors:
+  - Alexander Hübner

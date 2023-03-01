@@ -1,0 +1,4 @@
+name: "MMSeqs2 taxonomy"
+description: Assign contigs to a taxonomic unit using a reference database using MMSeqs2.
+authors:
+  - Alexander Hübner
